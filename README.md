@@ -1,7 +1,7 @@
 
-# 🍌 Stable Diffusion WebUI for banana (Stable Diffusion 2.1)
+# 🍌 Stable Diffusion WebUI for banana (Openjourney v2)
 
-Deploy an API for AUTOMATIC1111's [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) to generate images with **Stable Diffusion 2.1**.
+Deploy an API for AUTOMATIC1111's [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) to generate images with **Open Journey v2**.
 
 Supports features not available in other Stable Diffusion templates, such as:
 
@@ -13,7 +13,7 @@ This deployment provides an API only and does not include the WebUI's user inter
 
 ## Instant Deploy
 
-[See how to deploy in seconds](https://app.banana.dev/templates/patienceai/automatic1111-sd-2-1-banana).
+[See how to deploy in seconds](https://app.banana.dev/templates/agoldschmidt/automatic1111-sd-openjourney-v2).
 
 ## Model Inputs
 
